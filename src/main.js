@@ -2,8 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import ElementUI from 'element-ui';
 // import { Button, Select } from 'element-ui';
-// import 'element-ui/lib/theme-chalk/index.css';
-import '@/assets/css/element-variables.scss'
+import 'element-ui/lib/theme-chalk/index.css';
 
 import '@/style/theme-blue/theme/index.css'
 import '@/style/theme-red/theme/index.css'
