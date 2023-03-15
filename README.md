@@ -1,24 +1,8 @@
-# theme-switch
+### 实现思路
 
-## Project setup
-```
-npm install
-```
+如果使用的element-ui的组件 主题切换的时候我们要切换两方面的主题 一方面是 element-ui的主题 一方面是 自己系统的主题
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1.切换element-ui的主题
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2.切换我们自己系统想要的主题
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
