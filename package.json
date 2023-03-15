@@ -13,6 +13,9 @@
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-css-wrap": "^0.1.2",
+    "merge-stream": "^2.0.0",
+    "sass": "^1.59.3",
+    "sass-loader": "^13.2.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {

@@ -38,8 +38,11 @@ export default {
   },
   methods: {
     changeTheme() {
-      document.head.querySelector('#el-theme-link').setAttribute('href', `./style/theme-${this.model}/theme/index.css`)
+
+      document.body.className = `theme-${this.model}`
+      
       document.head.querySelector('#theme-link').setAttribute('href', `./style/${this.model}/index.css`)
+
     },
   },
 };
