@@ -2,7 +2,6 @@ var path = require('path')
 var gulp = require('gulp')
 var cleanCSS = require('gulp-clean-css')
 var cssWrap = require('gulp-css-wrap')
-// var merge = require('merge-stream');
 
 // 当前目录下运行 npx glup
 gulp.task('default',function () {
